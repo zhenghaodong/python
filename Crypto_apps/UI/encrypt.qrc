@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="背景">
+    <file>img/abc.ico</file>
+    <file>img/book.ico</file>
+    <file>img/books.ico</file>
+    <file>img/lock.ico</file>
+    <file>img/lock1.ico</file>
+    <file>img/locked.ico</file>
+    <file>img/unlock.ico</file>
+  </qresource>
+</RCC>
